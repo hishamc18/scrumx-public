@@ -1,4 +1,5 @@
-# 🧠 ScrumX — Smart Project & Team Management Platform
+# ScrumX — Smart Project & Team Management Platform
+Live:- https://scrumx.vercel.app/
 
 ---![1740895004039](https://github.com/user-attachments/assets/73c0cf9d-282f-44e0-b513-33e1e7d0352c)
 
